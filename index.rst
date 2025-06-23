@@ -5,7 +5,7 @@ Cash App Taxes offers a completely free and straightforward way to file your fed
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target: 
+   :target: https://fm.ci/?aHR0cHM6Ly9oZWxwY2VudGVyLWNhc2hhcHB0YXhlcy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 What is Cash App Taxes?
 -----------------------
