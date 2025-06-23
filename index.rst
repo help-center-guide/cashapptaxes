@@ -1,4 +1,4 @@
-Cash App Taxes Setup Guide: Create Account, Login
+Cash App Taxes Guide to Create Account and File Taxes Online
 ==================================================
 
 Cash App Taxes offers a completely free and straightforward way to file your federal and state taxes online. You don’t have to break the bank or stress out over the process. This guide will help you set up your account, log in, and download the app, making your tax filing experience a breeze.
