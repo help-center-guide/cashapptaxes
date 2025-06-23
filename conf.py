@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Cash App Taxes Setup Guide Create Account, Login"
+html_title = "Cash App Taxes Guide to Create Account and File Taxes Online"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Cash App Taxes Setup Guide Create Account, Login"
+html_short_title = "Cash App Taxes Guide to Create Account and File Taxes Online"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
