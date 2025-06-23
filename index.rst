@@ -1,85 +1,86 @@
-setup.brother.com - Guide to Install a brother printer to my computer
-===============
+Cash App Taxes Setup Guide: Create Account, Login
+==================================================
 
-If you’ve got a new Brother printer or want to update your old one, installing the right driver from **setup.brother.com** is the first step. Getting the correct driver installed is key to making it work smoothly with your computer. Here’s a quick and simple guide to help you do it right away.
+Cash App Taxes offers a completely free and straightforward way to file your federal and state taxes online. You don’t have to break the bank or stress out over the process. This guide will help you set up your account, log in, and download the app, making your tax filing experience a breeze.
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
+   :target: 
 
+What is Cash App Taxes?
+-----------------------
 
+Cash App Taxes is a handy feature within the Cash App platform that allows U.S. taxpayers to file their taxes online for free. Whether you're a gig worker, a full-time employee, or someone with investment income, Cash App Taxes has you covered with a variety of tax forms.
 
+Step-by-Step Guide to Using Cash App Taxes for Free Tax Filing
+--------------------------------------------------------------
 
-Here is how to install a Brother printer driver from setup.brother.com
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Download the Cash App
+^^^^^^^^^^^^^^^^^^^^^
 
-1. Find Your Printer Model
+To get started with Cash App Taxes, you'll need to have the Cash App installed on your device. Here’s how to do it:
 
-First, go to **setup.brother.com** Once you're there, find the search box and type in your printer's model number (it'll look something like "DCP-L2550DW"). Then, just hit the search icon or press Enter. 
+**For Android:**
 
+1. Open the Google Play Store.
+2. Type “Cash App” in the search bar.
+3. Hit Install.
 
-2. Choose Your Computer's System
+**For iPhone:**
 
-Alright, so once you see your printer model show up
+1. Open the Apple App Store.
+2. Search for “Cash App.”
+3. Tap Get.
 
- You gotta tell it what kind of computer you're using – like if it's a Windows computer, a Mac (that's macOS), or something else.
+.. note::
 
- Then, pick the exact version you have. For example, if it's Windows, is it Windows 11? Or if it's a Mac, is it macOS Ventura?
+   Make sure you’re downloading the app from Square, Inc., which is the official developer.
 
-After that, just click OK to keep going.
+Create a Cash App Account
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: instructions 1.png
-   :alt: instructions image 1
+Once you’ve got the app up and running, here’s what to do next:
 
-3. Download the Driver
+- Open Cash App.
+- Decide whether you want to sign up with your mobile number or email.
+- Check your phone or inbox for a verification code and enter it.
+- Link your bank account or debit card.
+- Create your $Cashtag, which is your unique username.
+- Fill in your personal details, including your name, address, and Social Security Number (this is needed for tax purposes).
 
-You're looking for either the "Full Driver & Software Package" or just the "Printer Driver."
+Access Cash App Taxes
+^^^^^^^^^^^^^^^^^^^^^
 
+Once you've set up your Cash App account, here's what to do next:
 
- Sometimes, you might need to click on sections to open them up and see all the files inside.
+- Open the app.
+- Tap on the Profile icon located at the top right corner.
+- Scroll down and select “Taxes” or head over to Cash App Taxes
+- Hit “Start Filing” and just follow the prompts.
 
-.. image:: instructions 2.png
-   :alt: instructions image 2
+You'll need to enter your tax information, which includes:
 
- Important: Before you click "Download," make sure to read any notes that are written under the file. They might have important info for you!
+- W-2 forms
+- 1099s (for gig work, freelance jobs, etc.)
+- Information about your dependents
+- Any deductions and credits you might qualify for
 
-Finally, hit "Download" and save that file onto your computer. You're almost there!
+Log In to Cash App Taxes on Desktop
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: instructions 3.png
-   :alt: instructions image 3
+If you're looking for a larger screen experience, here's what you need to do:
 
+- Head over to Cash App Taxes.
+- Click on "Log In."
+- Enter your mobile number or email address.
+- Verify your identity with the code you receive.
 
-4. Time to Install the Software
+Now you can access and file your taxes online!
 
-After the file is downloaded:
+Benefits of Using Cash App Taxes
+--------------------------------
 
- If you're on a Windows computer: Just find the file you downloaded and double-click it. If your computer asks you if you want to run it or say "Yes," go ahead and click that to start the process.
-
-
-
- If you're on a Mac (macOS): You'll need to open the .dmg file you downloaded. After that, just follow the instructions that pop up on your screen to get everything set up.
-
-
-.. image:: instructions 4.png
-   :alt: instructions image 4
-
-
-5. Finish the Installation
-
-Just follow each step it tells you to do.
-
- It'll ask you how you want to connect your printer – either with a USB cable or through Wi-Fi. Pick whichever one you're using.
-
- Then, just let the setup finish up.
-
-
- Once it's all done, your printer should be good to go and ready for you to use!
-
-
-
-.. image:: instructions 5.png
-   :alt: instructions image 5
-
-6. Restart (If Needed)
-
-For some computer systems, you might need to restart your computer to really make sure everything's completely finalized after the installation. It's usually a good idea to just reboot your computer once you're all done installing.
+- Enjoy completely free filing for both federal and state returns!
+- We’ve got you covered with support for W-2s, 1099s, Schedule C, crypto, and so much more.
+- Our platform is mobile-friendly and secure, making it easy to file on the go.
+- You could see your refunds hit your account up to 5 days early with direct deposit!
